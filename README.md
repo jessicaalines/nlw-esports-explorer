@@ -7,7 +7,7 @@ Projeto construído no evento Next Level Weak da Rocketseat.
 
 ![preview](./.github/preview.png)
 
-🔗[Clique aqui para acessar:](https://jessicaalines.github.io/nlw-esports-explorer)
+🔗[Clique aqui para acessar](https://jessicaalines.github.io/nlw-esports-explorer)
 
 ## 👽 Tecnologias 
 
